@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.2",
   "release_date": "2026-06-24",
-  "notes": "Mejoras de gestion de compras, visor de factura, soporte NO REQUIERE OC, adjuntos y preparacion portable con actualizacion automatica.",
+  "notes": "Prueba de actualizacion automatica: login con color rojo para validar descarga e instalacion de nueva version.",
   "download_url": "https://github.com/hsintaxis/control-facturas-morichal-release/releases/latest/download/ControlFacturas_Portable.zip"
 }
