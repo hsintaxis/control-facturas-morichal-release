@@ -1,0 +1,6 @@
+{
+  "version": "1.2.6",
+  "release_date": "2026-06-24",
+  "notes": "Corrige el actualizador para esperar archivos bloqueados de Windows y usar el updater nuevo del paquete descargado.",
+  "download_url": "https://github.com/hsintaxis/control-facturas-morichal-release/releases/latest/download/ControlFacturas_Portable.zip"
+}
