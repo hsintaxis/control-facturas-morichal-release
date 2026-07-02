@@ -1,15 +1,12 @@
-CONTROL FACTURAS - PUBLICACION DE ACTUALIZACION
-===============================================
+ControlFacturas - Release publico
 
-Esta carpeta es la unica que debe usarse para el repositorio publico de releases.
-No contiene codigo fuente, config.json real, base de datos ni logs reales.
+Este directorio contiene solo lo que se publica en el repositorio/release publico.
 
 Archivos:
-- version.json: manifiesto publico que lee la app para saber si hay version nueva.
-- ControlFacturas_Portable.zip: paquete que se adjunta tambien al GitHub Release.
+- version.json
+- ControlFacturas_Portable.zip
 
-En GitHub publico:
-1. Sube version.json al branch main.
-2. Crea un Release nuevo.
-3. Adjunta ControlFacturas_Portable.zip al Release.
-4. Verifica que download_url en version.json apunte a ese asset.
+IMPORTANTE:
+- Este ZIP no debe incluir config.json real.
+- Sube version.json al repo publico.
+- Adjunta ControlFacturas_Portable.zip al GitHub Release.

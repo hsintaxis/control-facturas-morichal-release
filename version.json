@@ -1,6 +1,6 @@
 {
   "version": "1.5.0",
-  "release_date": "2026-06-24",
-  "notes": "Corrige el actualizador para esperar archivos bloqueados de Windows y usar el updater nuevo del paquete descargado.",
+  "release_date": "2026-07-02",
+  "notes": "Mejora el paso del login a la aplicacion, corrige recursos visuales de CustomTkinter y estabiliza los calendarios en monitores con distinto escalado.",
   "download_url": "https://github.com/hsintaxis/control-facturas-morichal-release/releases/latest/download/ControlFacturas_Portable.zip"
 }
