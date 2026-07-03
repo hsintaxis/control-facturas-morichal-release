@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "release_date": "2026-07-02",
   "notes": "Mejora el paso del login a la aplicacion, corrige recursos visuales de CustomTkinter y estabiliza los calendarios en monitores con distinto escalado.",
   "download_url": "https://github.com/hsintaxis/control-facturas-morichal-release/releases/latest/download/ControlFacturas_Portable.zip"
