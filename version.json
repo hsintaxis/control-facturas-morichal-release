@@ -1,6 +1,6 @@
 {
-  "version": "1.7.3",
+  "version": "1.7.4",
   "release_date": "2026-07-20",
-  "notes": "VERSION COMPRAS, CONTABILIDAD Y TESORERIA PRUEBAS Y DESPLIEGUE COMPLETO.",
+  "notes": "FALLAS DE COMPRAS SOLUCIONADAS.",
   "download_url": "https://github.com/hsintaxis/control-facturas-morichal-release/releases/latest/download/ControlFacturas_Portable.zip"
 }
