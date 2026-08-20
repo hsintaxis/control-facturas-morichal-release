@@ -1,5 +1,5 @@
 {
-  "version": "1.8.21",
+  "version": "1.8.23",
   "release_date": "2026-08-20",
   "notes": "SINCRONIZACION RAPIDA POR PERMISOS, EDICION Y GUARDADO SIN BLOQUEOS, DELTAS PAGINADOS Y PENDIENTES SEGUROS POR MODULO.",
   "download_url": "https://github.com/hsintaxis/control-facturas-morichal-release/releases/latest/download/ControlFacturas_Portable.zip"
