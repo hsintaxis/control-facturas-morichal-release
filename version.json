@@ -1,7 +1,8 @@
 {
-  "version": "1.8.31",
-  "release_date": "2026-09-26",
-  "notes": "Cambio funcional en toda la aplicacion",
+  "version": "1.8.32",
+  "release_date": "2026-09-28",
+  "notes": "Mejoras de guardado y verificacion de paquetes",
   "download_url": "https://github.com/hsintaxis/control-facturas-morichal-release/releases/latest/download/ControlFacturas_Portable.zip",
-  "sha256": "1b43f5d83530d62c703b593bfe3ab2e4ff661d69e591148c06daa8edd7d01b89"
+  "sha256": "d18bf46c2de917e23533d922abea97d0fc8da8333af53cd432ffd310886bd9c3"
 }
+
