@@ -1,7 +1,7 @@
 {
-  "version": "1.8.33",
-  "release_date": "2026-09-28",
+  "version": "1.8.34",
+  "release_date": "2026-09-29",
   "notes": "Consecutivo de pagos de Tesoreria en SharePoint y cierre de paquete.",
   "download_url": "https://github.com/hsintaxis/control-facturas-morichal-release/releases/latest/download/ControlFacturas_Portable.zip",
-  "sha256": "9c7872d579cea8ed1e8439a62c819ab47eac949d32a1c84db28d657069f70d17"
+  "sha256": "05c141bf4c77e8afc60fe60056d5f3f51c4bc82e983a78be3c794de89168f057"
 }
