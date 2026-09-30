@@ -1,7 +1,7 @@
 {
-  "version": "1.8.35",
-  "release_date": "2026-09-29",
-  "notes": "Actualizaciones seguras: proteccion de la instalacion, validacion del paquete y aviso temprano.",
+  "version": "1.8.36",
+  "release_date": "2026-09-30",
+  "notes": "Corrige el guardado de cotizaciones y facturas manuales, valida el responsable de sesion y revisa los formularios de guardado.",
   "download_url": "https://github.com/hsintaxis/control-facturas-morichal-release/releases/latest/download/ControlFacturas_Portable.zip",
-  "sha256": "e5c8aab13dad797894d900585660c10e04fb3b3b5dc657e5411d8140612fc98b"
+  "sha256": ""
 }
